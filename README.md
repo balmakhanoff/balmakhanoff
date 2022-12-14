@@ -11,9 +11,9 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-Balmakhanoff
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Balmakhanoff&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Balmakhanoff)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=your-@balmakhanoff
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-@balmakhanoff&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-@balmakhanoff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
