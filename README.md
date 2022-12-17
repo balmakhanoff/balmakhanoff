@@ -4,7 +4,7 @@
 - 💻 I’m currently learning FRONTEND development
 - 💞️ I’m looking for a job offer
 - 📫 I'll be in touch *sinogu@yandex.ru* or __+7(777)760 5210__
-- 🚀 [My instagram is @balmakhanoff]([https://hexlet.io](https://www.instagram.com/balmakhanoff/))
+- 🚀 [My instagram is @balmakhanoff]([https://hexlet.io](https://www.instagram.com/balmakhanoff/])
 
 > Love each day (c) Sasha Grey
 
