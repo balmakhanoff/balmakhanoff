@@ -1,10 +1,10 @@
 # Info related to me
 - 👋 Hi, I’m __Balmakhanov Meirkhan__
 - 👀 I’m interested in healthy life style, programming skills and everything with fantasy, games and fun
-- 💻 I’m currently learning FRONTEND development
-- 💞️ I’m looking for a job offer
+- 💻 I’m python developer also could manage frontend development
+- 💞️ I’m improving myself almost everyday
 - 📫 I'll be in touch *sinogu@yandex.ru* or __+7(777)760 5210__
-- 🚀 <a href="https://www.instagram.com/balmakhanoff/">Мой инстаграм</a>
+- 🚀 <a href="https://www.instagram.com/balmakhanoff/">My instagram</a>
 
 > Love each day (c) Sasha Grey
 
